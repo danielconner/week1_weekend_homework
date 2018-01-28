@@ -74,12 +74,17 @@ def customer_can_afford_pet(customer, pet)
 end
 
 def sell_pet_to_customer(customer, pet_shop, pet)
+  amount = pet[:price]
 
-  
+  def customer_can_afford_pet(cusotmer, pet)
+    def add_pet_to_customer(customer, pet)
+      def increase_pets_sold(pet_shop, amount)
+        def add_or_remove_cash(pet_shop, amount)
 
-
-
-
+        end
+      end
+    end
+  end
 
 end
 
